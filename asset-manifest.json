@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portafolio/%20./static/css/main.0671bf51.chunk.css",
+    "main.js": "/Portafolio/%20./static/js/main.f87376d6.chunk.js",
+    "main.js.map": "/Portafolio/%20./static/js/main.f87376d6.chunk.js.map",
+    "runtime-main.js": "/Portafolio/%20./static/js/runtime-main.91f0bf46.js",
+    "runtime-main.js.map": "/Portafolio/%20./static/js/runtime-main.91f0bf46.js.map",
+    "static/js/2.19f8ac03.chunk.js": "/Portafolio/%20./static/js/2.19f8ac03.chunk.js",
+    "static/js/2.19f8ac03.chunk.js.map": "/Portafolio/%20./static/js/2.19f8ac03.chunk.js.map",
+    "index.html": "/Portafolio/%20./index.html",
+    "precache-manifest.810129dfe8ce5326f0f9042f5c09f286.js": "/Portafolio/%20./precache-manifest.810129dfe8ce5326f0f9042f5c09f286.js",
+    "service-worker.js": "/Portafolio/%20./service-worker.js",
+    "static/css/main.0671bf51.chunk.css.map": "/Portafolio/%20./static/css/main.0671bf51.chunk.css.map",
+    "static/js/2.19f8ac03.chunk.js.LICENSE.txt": "/Portafolio/%20./static/js/2.19f8ac03.chunk.js.LICENSE.txt",
+    "static/media/Linkedin.ico": "/Portafolio/%20./static/media/Linkedin.bc69ed77.ico",
+    "static/media/css3.ico": "/Portafolio/%20./static/media/css3.b71c751f.ico",
+    "static/media/git.ico": "/Portafolio/%20./static/media/git.3839754e.ico",
+    "static/media/github.ico": "/Portafolio/%20./static/media/github.b63e086c.ico",
+    "static/media/gmail.ico": "/Portafolio/%20./static/media/gmail.4b73ffa1.ico",
+    "static/media/html5.ico": "/Portafolio/%20./static/media/html5.dee467d4.ico",
+    "static/media/javascript.ico": "/Portafolio/%20./static/media/javascript.8ddfe59e.ico",
+    "static/media/react.ico": "/Portafolio/%20./static/media/react.7fd35780.ico"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91f0bf46.js",
+    "static/js/2.19f8ac03.chunk.js",
+    "static/css/main.0671bf51.chunk.css",
+    "static/js/main.f87376d6.chunk.js"
+  ]
+}
