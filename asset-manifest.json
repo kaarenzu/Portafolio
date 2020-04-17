@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portafolio/%20./static/css/main.0671bf51.chunk.css",
-    "main.js": "/Portafolio/%20./static/js/main.f87376d6.chunk.js",
-    "main.js.map": "/Portafolio/%20./static/js/main.f87376d6.chunk.js.map",
+    "main.css": "/Portafolio/%20./static/css/main.70d5f1f1.chunk.css",
+    "main.js": "/Portafolio/%20./static/js/main.7579c8e3.chunk.js",
+    "main.js.map": "/Portafolio/%20./static/js/main.7579c8e3.chunk.js.map",
     "runtime-main.js": "/Portafolio/%20./static/js/runtime-main.91f0bf46.js",
     "runtime-main.js.map": "/Portafolio/%20./static/js/runtime-main.91f0bf46.js.map",
-    "static/js/2.19f8ac03.chunk.js": "/Portafolio/%20./static/js/2.19f8ac03.chunk.js",
-    "static/js/2.19f8ac03.chunk.js.map": "/Portafolio/%20./static/js/2.19f8ac03.chunk.js.map",
+    "static/js/2.46298fba.chunk.js": "/Portafolio/%20./static/js/2.46298fba.chunk.js",
+    "static/js/2.46298fba.chunk.js.map": "/Portafolio/%20./static/js/2.46298fba.chunk.js.map",
     "index.html": "/Portafolio/%20./index.html",
-    "precache-manifest.810129dfe8ce5326f0f9042f5c09f286.js": "/Portafolio/%20./precache-manifest.810129dfe8ce5326f0f9042f5c09f286.js",
+    "precache-manifest.8736e369480f25186919b6c620d2e143.js": "/Portafolio/%20./precache-manifest.8736e369480f25186919b6c620d2e143.js",
     "service-worker.js": "/Portafolio/%20./service-worker.js",
-    "static/css/main.0671bf51.chunk.css.map": "/Portafolio/%20./static/css/main.0671bf51.chunk.css.map",
-    "static/js/2.19f8ac03.chunk.js.LICENSE.txt": "/Portafolio/%20./static/js/2.19f8ac03.chunk.js.LICENSE.txt",
+    "static/css/main.70d5f1f1.chunk.css.map": "/Portafolio/%20./static/css/main.70d5f1f1.chunk.css.map",
+    "static/js/2.46298fba.chunk.js.LICENSE.txt": "/Portafolio/%20./static/js/2.46298fba.chunk.js.LICENSE.txt",
     "static/media/Linkedin.ico": "/Portafolio/%20./static/media/Linkedin.bc69ed77.ico",
     "static/media/css3.ico": "/Portafolio/%20./static/media/css3.b71c751f.ico",
     "static/media/git.ico": "/Portafolio/%20./static/media/git.3839754e.ico",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.91f0bf46.js",
-    "static/js/2.19f8ac03.chunk.js",
-    "static/css/main.0671bf51.chunk.css",
-    "static/js/main.f87376d6.chunk.js"
+    "static/js/2.46298fba.chunk.js",
+    "static/css/main.70d5f1f1.chunk.css",
+    "static/js/main.7579c8e3.chunk.js"
   ]
 }
