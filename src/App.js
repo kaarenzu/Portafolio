@@ -3,18 +3,26 @@ import React from 'react';
 import './App.css';
 // import { Button } from 'reactstrap';
 import MyNavbar from './Component/Navbar.jsx'
-// import {MyContainer} from './component/MyContainer'
+// import { MyContainer } from './Component/MyContainer'
+import {
+  BrowserRouter as Router
+} from "react-router-dom";
 
 
-function App() {
-  return (
-    <div className="app">
-          
-        <MyNavbar/>
+class App extends React.Component {
+  render() {
+    return (
+      <Router>
+        <div className="app">
 
-       
-    </div>
-  );
+          <MyNavbar />
+
+
+        </div>
+      </Router>
+
+    );
+  }
 }
 
 export default App;
