@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/Portafolio/%20./static/css/main.70d5f1f1.chunk.css",
-    "main.js": "/Portafolio/%20./static/js/main.7579c8e3.chunk.js",
-    "main.js.map": "/Portafolio/%20./static/js/main.7579c8e3.chunk.js.map",
-    "runtime-main.js": "/Portafolio/%20./static/js/runtime-main.91f0bf46.js",
-    "runtime-main.js.map": "/Portafolio/%20./static/js/runtime-main.91f0bf46.js.map",
-    "static/js/2.46298fba.chunk.js": "/Portafolio/%20./static/js/2.46298fba.chunk.js",
-    "static/js/2.46298fba.chunk.js.map": "/Portafolio/%20./static/js/2.46298fba.chunk.js.map",
-    "index.html": "/Portafolio/%20./index.html",
-    "precache-manifest.8736e369480f25186919b6c620d2e143.js": "/Portafolio/%20./precache-manifest.8736e369480f25186919b6c620d2e143.js",
-    "service-worker.js": "/Portafolio/%20./service-worker.js",
-    "static/css/main.70d5f1f1.chunk.css.map": "/Portafolio/%20./static/css/main.70d5f1f1.chunk.css.map",
-    "static/js/2.46298fba.chunk.js.LICENSE.txt": "/Portafolio/%20./static/js/2.46298fba.chunk.js.LICENSE.txt",
-    "static/media/Linkedin.ico": "/Portafolio/%20./static/media/Linkedin.bc69ed77.ico",
-    "static/media/css3.ico": "/Portafolio/%20./static/media/css3.b71c751f.ico",
-    "static/media/git.ico": "/Portafolio/%20./static/media/git.3839754e.ico",
-    "static/media/github.ico": "/Portafolio/%20./static/media/github.b63e086c.ico",
-    "static/media/gmail.ico": "/Portafolio/%20./static/media/gmail.4b73ffa1.ico",
-    "static/media/html5.ico": "/Portafolio/%20./static/media/html5.dee467d4.ico",
-    "static/media/javascript.ico": "/Portafolio/%20./static/media/javascript.8ddfe59e.ico",
-    "static/media/react.ico": "/Portafolio/%20./static/media/react.7fd35780.ico"
+    "main.css": "/Portafolio/static/css/main.70d5f1f1.chunk.css",
+    "main.js": "/Portafolio/static/js/main.7004f763.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.7004f763.chunk.js.map",
+    "runtime-main.js": "/Portafolio/static/js/runtime-main.736050b3.js",
+    "runtime-main.js.map": "/Portafolio/static/js/runtime-main.736050b3.js.map",
+    "static/js/2.46298fba.chunk.js": "/Portafolio/static/js/2.46298fba.chunk.js",
+    "static/js/2.46298fba.chunk.js.map": "/Portafolio/static/js/2.46298fba.chunk.js.map",
+    "index.html": "/Portafolio/index.html",
+    "precache-manifest.987423e8c5c988fe80451b4b3c27d3fb.js": "/Portafolio/precache-manifest.987423e8c5c988fe80451b4b3c27d3fb.js",
+    "service-worker.js": "/Portafolio/service-worker.js",
+    "static/css/main.70d5f1f1.chunk.css.map": "/Portafolio/static/css/main.70d5f1f1.chunk.css.map",
+    "static/js/2.46298fba.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.46298fba.chunk.js.LICENSE.txt",
+    "static/media/Linkedin.ico": "/Portafolio/static/media/Linkedin.bc69ed77.ico",
+    "static/media/css3.ico": "/Portafolio/static/media/css3.b71c751f.ico",
+    "static/media/git.ico": "/Portafolio/static/media/git.3839754e.ico",
+    "static/media/github.ico": "/Portafolio/static/media/github.b63e086c.ico",
+    "static/media/gmail.ico": "/Portafolio/static/media/gmail.4b73ffa1.ico",
+    "static/media/html5.ico": "/Portafolio/static/media/html5.dee467d4.ico",
+    "static/media/javascript.ico": "/Portafolio/static/media/javascript.8ddfe59e.ico",
+    "static/media/react.ico": "/Portafolio/static/media/react.7fd35780.ico"
   },
   "entrypoints": [
-    "static/js/runtime-main.91f0bf46.js",
+    "static/js/runtime-main.736050b3.js",
     "static/js/2.46298fba.chunk.js",
     "static/css/main.70d5f1f1.chunk.css",
-    "static/js/main.7579c8e3.chunk.js"
+    "static/js/main.7004f763.chunk.js"
   ]
 }
