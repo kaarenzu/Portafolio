@@ -3,7 +3,7 @@ import React from 'react';
 import './App.css';
 // import { Button } from 'reactstrap';
 import MyNavbar from './Component/Navbar.jsx'
-// import {MyContainer} from './component/MyContainer'
+import {MyContainer} from './Component/MyContainer.jsx'
 
 
 function App() {
@@ -11,6 +11,7 @@ function App() {
     <div className="app">
           
         <MyNavbar/>
+        <MyContainer/>
 
        
     </div>
