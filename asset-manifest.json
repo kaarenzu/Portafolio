@@ -1,30 +1,32 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.e8e1df4f.chunk.css",
-    "main.js": "/Portafolio/static/js/main.7004f763.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.7004f763.chunk.js.map",
+    "main.js": "/Portafolio/static/js/main.543aece5.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.543aece5.chunk.js.map",
     "runtime-main.js": "/Portafolio/static/js/runtime-main.736050b3.js",
     "runtime-main.js.map": "/Portafolio/static/js/runtime-main.736050b3.js.map",
-    "static/js/2.46298fba.chunk.js": "/Portafolio/static/js/2.46298fba.chunk.js",
-    "static/js/2.46298fba.chunk.js.map": "/Portafolio/static/js/2.46298fba.chunk.js.map",
+    "static/js/2.5811cd08.chunk.js": "/Portafolio/static/js/2.5811cd08.chunk.js",
+    "static/js/2.5811cd08.chunk.js.map": "/Portafolio/static/js/2.5811cd08.chunk.js.map",
     "index.html": "/Portafolio/index.html",
-    "precache-manifest.cfc73956c1299594f9d319d26c6916da.js": "/Portafolio/precache-manifest.cfc73956c1299594f9d319d26c6916da.js",
+    "precache-manifest.82fba502dd6cac662a7ee0f3b02dfeed.js": "/Portafolio/precache-manifest.82fba502dd6cac662a7ee0f3b02dfeed.js",
     "service-worker.js": "/Portafolio/service-worker.js",
     "static/css/main.e8e1df4f.chunk.css.map": "/Portafolio/static/css/main.e8e1df4f.chunk.css.map",
-    "static/js/2.46298fba.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.46298fba.chunk.js.LICENSE.txt",
+    "static/js/2.5811cd08.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.5811cd08.chunk.js.LICENSE.txt",
     "static/media/Linkedin.ico": "/Portafolio/static/media/Linkedin.bc69ed77.ico",
     "static/media/css3.ico": "/Portafolio/static/media/css3.b71c751f.ico",
+    "static/media/curriculum.png": "/Portafolio/static/media/curriculum.17f35356.png",
     "static/media/git.ico": "/Portafolio/static/media/git.3839754e.ico",
     "static/media/github.ico": "/Portafolio/static/media/github.b63e086c.ico",
     "static/media/gmail.ico": "/Portafolio/static/media/gmail.4b73ffa1.ico",
     "static/media/html5.ico": "/Portafolio/static/media/html5.dee467d4.ico",
     "static/media/javascript.ico": "/Portafolio/static/media/javascript.8ddfe59e.ico",
+    "static/media/menu.ico": "/Portafolio/static/media/menu.02a6c2fd.ico",
     "static/media/react.ico": "/Portafolio/static/media/react.7fd35780.ico"
   },
   "entrypoints": [
     "static/js/runtime-main.736050b3.js",
-    "static/js/2.46298fba.chunk.js",
+    "static/js/2.5811cd08.chunk.js",
     "static/css/main.e8e1df4f.chunk.css",
-    "static/js/main.7004f763.chunk.js"
+    "static/js/main.543aece5.chunk.js"
   ]
 }
