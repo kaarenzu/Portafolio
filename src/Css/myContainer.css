@@ -1,0 +1,79 @@
+/* Css de la barra de navegacion */
+.contenedor {
+  display: flex;
+flex-direction: row;
+justify-content: center;
+}
+/* css de la caja donde va el texto acerca de mi */
+.mycontainer {
+  background: rgba(64, 66, 65, 0.342);
+  width: 50%;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/* Medidas de la imagen del curriculum */
+.divImagen {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.imagen {
+  width: 210px;
+  border-radius: 15%; 
+}
+
+.divButtonCv {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.btn_cv {
+  background-color: rgba(64, 66, 65, 0.342);
+  color: aliceblue;
+  font-size: x-large;
+  width: 32%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.divH5 {
+  width: 60%;
+}
+
+h5 {
+  font-family: 'Open Sans', sans-serif;
+ 
+}
+
+.divH1 {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (min-width:300px) and (max-width:800px) {
+
+  .mycontainer {
+    background: rgba(64, 66, 65, 0.342);
+    width: 87%;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+}
+
