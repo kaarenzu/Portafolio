@@ -9,7 +9,7 @@ export function MyContainer() {
       <div className="mycontainer">
         <div className="divImagen">
           <img className='imagen'
-            src="https://raw.githubusercontent.com/kaarenzu/Mi-Portafolio/master/src/imagenes/curriculum.png"
+            src={require("../imagenes/curriculum.png")}
           />
         </div>
         <div className="divH5">

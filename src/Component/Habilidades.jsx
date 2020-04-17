@@ -67,14 +67,14 @@ export function Habilidades() {
         <div className="trans">
           <div className="transversales">
             <img className='ico_trans'
-              src="https://raw.githubusercontent.com/kaarenzu/Mi-Portafolio/master/src/imagenes/trabajoenequipo.png" />
-            <div className="text">
+              src={require("../imagenes/trabajoenequipo.png")}/>         
+              <div className="text">
               <h6 className="classh6">Trabajo en equipo</h6>
             </div>
           </div>
           <div className="transversales">
             <img className='ico_trans'
-              src="https://raw.githubusercontent.com/kaarenzu/Mi-Portafolio/master/src/imagenes/metodagil.png" />
+            src={require("../imagenes/metodagil.png")}/>
             <div className="text">
               <h6 className="classh6">Metodología Ágil</h6>
             </div>

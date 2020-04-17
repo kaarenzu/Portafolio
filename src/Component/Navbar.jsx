@@ -37,8 +37,7 @@ class MyNavbar extends React.Component {
           <div className='menu_bar'>
             <img className='ico_menu'
               onClick={this.onClickEstado}
-              src="https://raw.githubusercontent.com/kaarenzu/Mi-Portafolio/master/src/imagenes/menu.ico"
-            />
+              src={require("../imagenes/menu.ico")}            />
           </div>
         </header>
         {/* nav movil */}
