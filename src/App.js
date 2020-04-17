@@ -2,7 +2,7 @@ import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
 // import { Button } from 'reactstrap';
-import MyNavbar from './component/Navbar.jsx'
+import MyNavbar from './Component/Navbar.jsx'
 // import {MyContainer} from './component/MyContainer'
 
 
