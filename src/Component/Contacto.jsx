@@ -23,10 +23,10 @@ function Contacto() {
                 </div>
               </a>
             </div>
-            <div className='divCont'>
+            <div className='divCont'data-toggle="modal" data-target="#modalCorreo" >
               <img className='ico_cont'
                 src={require("../img/gmail.ico")}
-                data-toggle="modal" data-target="#modalCorreo" />
+                />
               <div className="textoH6">
                 <h6>Gmail</h6>
               </div>

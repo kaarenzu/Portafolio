@@ -62,7 +62,7 @@ class MyNavbar extends React.Component {
         {/* Nav pc */}
         <nav className="menu">
           <ul>
-            <Link to="/" className="text-white ">
+            <Link to="/AcercadeMi" className="text-white ">
               <li>Acerca de mi</li></Link>
             <Link to="/Habilidades" className="text-white ">
               <li>Habilidades</li></Link>
@@ -72,7 +72,10 @@ class MyNavbar extends React.Component {
               <li>Contacto</li></Link>
           </ul>
         </nav>
-        <Route exact path="/">
+        <Route path="/AcercadeMi">
+          <MyContainer />
+        </Route>
+        <Route exact path="/Portafolio">
           <MyContainer />
         </Route>
 

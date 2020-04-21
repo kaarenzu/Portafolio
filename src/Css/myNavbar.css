@@ -1,3 +1,12 @@
+body {
+  /* background: linear-gradient(194.07deg, #CDDDF4 3.26%, #CDBAFA 100%); */
+ background:url("https://thumbs.dreamstime.com/t/cachimba-p%C3%BArpura-abstracta-del-humo-en-un-fondo-negro-58239958.jpg");
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+
+}
 .menuMovile {
   display: none
 }
