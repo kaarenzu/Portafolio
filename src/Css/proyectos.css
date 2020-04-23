@@ -1,0 +1,52 @@
+.divProyectos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  color: aliceblue;
+  font-family: sans-serif;
+}
+#yapo {
+  background: rgba(64, 66, 65, 0.342);
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  margin-top:2%
+}
+
+.cajaproyectos {
+  width: 70%;
+  background: rgba(124, 23, 182, 0.219);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2%;
+}
+
+.imgProyectos {
+  width: 90%;
+  margin-top: 5%;
+  margin-left: 5%;
+}
+
+.descripcion {
+  color: aliceblue;
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: -webkit-center;
+  margin-top: 2%;
+  padding: 5px;
+  font-family: 'Open Sans', sans-serif;
+}
+@media (min-width:300px) and (max-width:800px) {
+  #yapo {
+    width: 88%;
+  }
+}
