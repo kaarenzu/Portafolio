@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.9256c788.chunk.css",
-    "main.js": "/Portafolio/static/js/main.aa25f78c.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.aa25f78c.chunk.js.map",
+    "main.css": "/Portafolio/static/css/main.cf5ba3f1.chunk.css",
+    "main.js": "/Portafolio/static/js/main.57df3278.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.57df3278.chunk.js.map",
     "runtime-main.js": "/Portafolio/static/js/runtime-main.736050b3.js",
     "runtime-main.js.map": "/Portafolio/static/js/runtime-main.736050b3.js.map",
     "static/js/2.50de7787.chunk.js": "/Portafolio/static/js/2.50de7787.chunk.js",
     "static/js/2.50de7787.chunk.js.map": "/Portafolio/static/js/2.50de7787.chunk.js.map",
     "index.html": "/Portafolio/index.html",
-    "precache-manifest.0a451d8d6bef7567c568c209c99594aa.js": "/Portafolio/precache-manifest.0a451d8d6bef7567c568c209c99594aa.js",
+    "precache-manifest.8335de59918aa8123b0e157c1adcb69a.js": "/Portafolio/precache-manifest.8335de59918aa8123b0e157c1adcb69a.js",
     "service-worker.js": "/Portafolio/service-worker.js",
-    "static/css/main.9256c788.chunk.css.map": "/Portafolio/static/css/main.9256c788.chunk.css.map",
+    "static/css/main.cf5ba3f1.chunk.css.map": "/Portafolio/static/css/main.cf5ba3f1.chunk.css.map",
     "static/js/2.50de7787.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.50de7787.chunk.js.LICENSE.txt",
     "static/media/Linkedin.ico": "/Portafolio/static/media/Linkedin.bc69ed77.ico",
     "static/media/css3.ico": "/Portafolio/static/media/css3.b71c751f.ico",
     "static/media/curriculum.png": "/Portafolio/static/media/curriculum.17f35356.png",
     "static/media/git.ico": "/Portafolio/static/media/git.3839754e.ico",
     "static/media/github.ico": "/Portafolio/static/media/github.b63e086c.ico",
-    "static/media/gmail.ico": "/Portafolio/static/media/gmail.4b73ffa1.ico",
+    "static/media/gmail2.ico": "/Portafolio/static/media/gmail2.3d34c074.ico",
     "static/media/html5.ico": "/Portafolio/static/media/html5.dee467d4.ico",
     "static/media/javascript.ico": "/Portafolio/static/media/javascript.8ddfe59e.ico",
     "static/media/loginHere.png": "/Portafolio/static/media/loginHere.d682f1bb.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.736050b3.js",
     "static/js/2.50de7787.chunk.js",
-    "static/css/main.9256c788.chunk.css",
-    "static/js/main.aa25f78c.chunk.js"
+    "static/css/main.cf5ba3f1.chunk.css",
+    "static/js/main.57df3278.chunk.js"
   ]
 }

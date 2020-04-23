@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4d46b76fdb1b773490aefe9de734094",
+    "revision": "40afa393e39b5015b09805824f1d2fa9",
     "url": "/Portafolio/index.html"
   },
   {
-    "revision": "d65eb67614f97e4383a2",
-    "url": "/Portafolio/static/css/main.9256c788.chunk.css"
+    "revision": "c2539b7156a98cd23c99",
+    "url": "/Portafolio/static/css/main.cf5ba3f1.chunk.css"
   },
   {
     "revision": "022dbaa03f7210b8c351",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portafolio/static/js/2.50de7787.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d65eb67614f97e4383a2",
-    "url": "/Portafolio/static/js/main.aa25f78c.chunk.js"
+    "revision": "c2539b7156a98cd23c99",
+    "url": "/Portafolio/static/js/main.57df3278.chunk.js"
   },
   {
     "revision": "85b640187492edd54f27",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portafolio/static/media/github.b63e086c.ico"
   },
   {
-    "revision": "4b73ffa1abe634f1f3b385b3e7ec312f",
-    "url": "/Portafolio/static/media/gmail.4b73ffa1.ico"
+    "revision": "3d34c074a9333cc2842722412cf90ebd",
+    "url": "/Portafolio/static/media/gmail2.3d34c074.ico"
   },
   {
     "revision": "dee467d4329f765b4ac1b8277c65dd90",
