@@ -28,7 +28,7 @@ function Proyectos() {
               src={require("../imgProyectos/movieProyect.png")}
               className="imgProyectos" />
             <div className="descripcion">
-              <p>Cine La Costa está sorteando dos entradas a quien participe y gane una
+              <p>Cine De la Costa está sorteando dos entradas a quien participe y gane una
               entretenida trivia con preguntas acerca de las peliculas que están nominada a los
               Oscar 2020.Participa y gana.</p>
             </div>
@@ -43,7 +43,7 @@ function Proyectos() {
               className="imgProyectos" />
             <div className="descripcion">
               <p>En Tips Tech podrás encontrar y compartir datos de ofertas en productos
-              tecnologicos y así poder comprar los mejores productos a precios muy convenientes.
+              tecnológicos y así poder comprar los mejores productos a precios muy convenientes.
             </p>
             </div>
           </a>

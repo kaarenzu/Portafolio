@@ -44,7 +44,7 @@ class MyNavbar extends React.Component {
         {this.state.estado &&
           <nav className="menuMovile">
             <ul>
-              <Link to="/" className="text-white "
+              <Link to="/AcercadeMi" className="text-white "
                 onClick={this.onClickEstado}>
                 <li>Acerca de mi</li></Link>
               <Link to="/Habilidades" className="text-white "

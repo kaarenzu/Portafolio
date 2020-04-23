@@ -74,6 +74,9 @@ h5 {
     flex-direction: column;
     align-items: center;
   }
+  .btn_cv {
+    width: 60%;
+  }
 
 }
 
