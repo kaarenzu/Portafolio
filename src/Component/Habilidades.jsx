@@ -12,7 +12,7 @@ export function Habilidades() {
         <div className="imagenesHab">
           <div className="imagen_hab">
             <img
-              src={require("../img/javascript.ico")}
+              src={require("../img/archivo.png")}
               className="ico_hab" />
             <div className="textH6">
               <h6 className="classh6">Javascript</h6>
@@ -20,7 +20,7 @@ export function Habilidades() {
           </div>
           <div className="imagen_hab">
             <img
-              src={require("../img/css3.ico")}
+              src={require("../img/color-css.png")}
               className="ico_hab" />
             <div className="textH6">
               <h6 className="classh6">CSS</h6>
@@ -28,7 +28,7 @@ export function Habilidades() {
           </div>
           <div className="imagen_hab">
             <img
-              src={require("../img/html5.ico")}
+              src={require("../img/html-color.png")}
               className="ico_hab" />
             <div className="textH6">
               <h6 className="classh6">HTML</h6>
@@ -36,7 +36,7 @@ export function Habilidades() {
           </div>
           <div className="imagen_hab">
             <img
-              src={require("../img/git.ico")}
+              src={require("../img/cuadrado.png")}
               className="ico_hab" />
             <div className="textH6">
               <h6 className="classh6">Git</h6>
@@ -44,7 +44,7 @@ export function Habilidades() {
           </div>
           <div className="imagen_hab">
             <img
-              src={require("../img/github.ico")}
+              src={require("../img/redes-sociales.png")}
               className="ico_hab" />
             <div className="textH6">
               <h6 className="classh6">GitHub</h6>
@@ -52,7 +52,7 @@ export function Habilidades() {
           </div>
           <div className="imagen_hab">
             <img
-              src={require("../img/react.ico")}
+              src={require("../img/react-color.png")}
               className="ico_hab" />
             <div className="textH6">
               <h6 className="classh6">React</h6>
@@ -67,14 +67,14 @@ export function Habilidades() {
         <div className="trans">
           <div className="transversales">
             <img className='ico_trans'
-              src={require("../imagenes/trabajoenequipo.png")}/>         
+              src={require("../img/icon.png")}/>         
               <div className="text">
               <h6 className="classh6">Trabajo en equipo</h6>
             </div>
           </div>
           <div className="transversales">
             <img className='ico_trans'
-            src={require("../imagenes/metodagil.png")}/>
+            src={require("../img/engranaje.png")}/>
             <div className="text">
               <h6 className="classh6">Metodología Ágil</h6>
             </div>

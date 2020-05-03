@@ -17,7 +17,7 @@ function Contacto() {
               <a href={`https://github.com/kaarenzu?tab=repositories`}
                 target="_blank" >
                 <img className='ico_cont'
-                  src={require("../img/github.ico")} />
+                  src={require("../img/redes-sociales.png")} />
                 <div className="textoH6">
                   <h6>GitHub</h6>
                 </div>
@@ -25,7 +25,7 @@ function Contacto() {
             </div>
             <div className='divCont'data-toggle="modal" data-target="#modalCorreo" >
               <img className='ico_cont'
-                src={require("../img/gmail2.ico")}
+                src={require("../img/comunicaciones.png")}
                 />
               <div className="textoH6">
                 <h6>Gmail</h6>
@@ -52,7 +52,7 @@ function Contacto() {
               <a href={`https://www.linkedin.com/in/karen-andrea-zu%C3%B1iga-cortes-0a41a31a1`}
                 target="_blank" >
                 <img className='ico_cont'
-                  src={require("../img/Linkedin.ico")} />
+                  src={require("../img/redes-sociales (1).png")} />
                 <div className="textoH6">
                   <h6>Linkedin</h6>
                 </div>

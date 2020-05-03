@@ -6,6 +6,9 @@
   color: aliceblue;
   font-family: sans-serif;
 }
+#link {
+  text-decoration: none;
+}
 #yapo {
   background: rgba(64, 66, 65, 0.342);
   width: 50%;
@@ -27,18 +30,27 @@ h2 {
   align-items: center;
   margin-top: 2%;
 }
-
+#btn_link {
+  text-decoration: none;
+  border: 1px solid;
+  background: rgba(64, 66, 65, 0.342);
+  width:40%;
+}
 .imgProyectos {
   width: 90%;
   margin-top: 5%;
   margin-left: 5%;
 }
-
+.button {
+  display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
 .descripcion {
   color: aliceblue;
   font-family: sans-serif;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   text-align: -webkit-center;
   margin-top: 2%;
@@ -48,5 +60,8 @@ h2 {
 @media (min-width:300px) and (max-width:800px) {
   #yapo {
     width: 88%;
+  }
+  .cajaproyectos {
+    width:95%;
   }
 }

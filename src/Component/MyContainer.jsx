@@ -14,10 +14,14 @@ export function MyContainer() {
         </div>
         <div className="divH5">
           <h5>¡Hola! Soy Karen Zúñiga,
-          Front-End Developer. Tengo 28 años y me defino como una profesional
+          Front-End Developer.
+          </h5>
+          <h5> Me defino como una profesional
           con capacidad de trabajo en equipo y espíritu emprendedor.
           Los nuevos desafíos los tomo como una oportunidad de aprender más,
-          con perseverancia y enfoque proactivo.
+          con perseverancia y enfoque proactivo.</h5>
+          
+          <h5>
           Me encanta la música, el deporte, aprender cosas nuevas e ir creciendo
           personal y laboralmente.
        </h5>
