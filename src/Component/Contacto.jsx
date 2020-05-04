@@ -23,30 +23,18 @@ function Contacto() {
                 </div>
               </a>
             </div>
-            <div className='divCont'data-toggle="modal" data-target="#modalCorreo" >
+            <div className='divCont' >
+              <a href={`mailto:karenzcortes0211@gmail.com`}>
               <img className='ico_cont'
                 src={require("../img/comunicaciones.png")}
                 />
               <div className="textoH6">
                 <h6>Gmail</h6>
               </div>
-              <div className="modal fade" id="modalCorreo" htmlFor="-1"
-                role="dialog" aria-labelledby="miCorreo" aria-hidden="true">
-                <div className="modal-dialog" role="document">
-                  <div id="modalCont" className="modal-content">
-                    <div className="modal-header">
-                      <h5 className="modal-title" id="miCorreo">Karenzcortes0211@gmail.com</h5>
-                      <button type="button" className="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                      </button>
-                    </div>
-                    <div className="modal-footer">
-                      <button type="button" id="btnCerrarMod" className="btn btn-secondary"
-                        data-dismiss="modal">Cerrar</button>
-                    </div>
-                  </div>
-                </div>
-              </div>
+
+              </a>
+            
+          
             </div>
             <div className='divCont'>
               <a href={`https://www.linkedin.com/in/karen-andrea-zu%C3%B1iga-cortes-0a41a31a1`}
