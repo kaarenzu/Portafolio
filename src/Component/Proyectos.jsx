@@ -10,8 +10,8 @@ function Proyectos() {
       <div classsName="containerProyecto" id="yapo">
         <h2 className="classh1">Mis Proyectos</h2>
         <div className="cajaproyectos">
-          <a href={`https://here-squad2.firebaseapp.com/`}id="link"
-            target="_blank">
+         
+           
             <img
               src={require("../imgProyectos/loginHere.png")}
               className="imgProyectos" />
@@ -26,11 +26,10 @@ function Proyectos() {
             id='btn_link' target="_blank">Sitio Web</a>
             </div>
             </div>
-          </a>
+        
         </div>
         <div className="cajaproyectos">
-          <a href={`https://bdiniscia.github.io/SCL012-MovieProject/src/`}id="link"
-            target="_blank" >
+          
             <img
               src={require("../imgProyectos/movieProyect.png")}
               className="imgProyectos" />
@@ -47,12 +46,11 @@ function Proyectos() {
             </div>
             </div>
 
-          </a>
+         
 
         </div>
         <div className="cajaproyectos">
-          <a href={`https://tipstech-c6fe7.firebaseapp.com/#/Inicio`}id="link"
-            target="_blank" >
+        
             <img
               src={require("../imgProyectos/loginTips.png")}
               className="imgProyectos" />
@@ -68,7 +66,7 @@ function Proyectos() {
             id='btn_link' target="_blank">Sitio Web</a>
             </div>
             </div>
-          </a>
+          
         </div>
 
       </div>
