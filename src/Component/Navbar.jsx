@@ -44,7 +44,7 @@ class MyNavbar extends React.Component {
         {this.state.estado &&
           <nav className="menuMovile">
             <ul>
-              <Link to="/AcercadeMi" className="text-white "
+              <Link to="/" className="text-white "
                 onClick={this.onClickEstado}>
                 <li>Acerca de mi</li></Link>
               <Link to="/Habilidades" className="text-white "
@@ -62,7 +62,7 @@ class MyNavbar extends React.Component {
         {/* Nav pc */}
         <nav className="menu">
           <ul>
-            <Link to="/AcercadeMi" className="text-white ">
+            <Link exact to="/" className="text-white ">
               <li>Acerca de mi</li></Link>
             <Link to="/Habilidades" className="text-white ">
               <li>Habilidades</li></Link>
@@ -72,12 +72,12 @@ class MyNavbar extends React.Component {
               <li>Contacto</li></Link>
           </ul>
         </nav>
-        <Route path="/AcercadeMi">
+        <Route exact path="/">
           <MyContainer />
         </Route>
-        <Route exact path="/Portafolio">
+        {/* <Route exact path="/Portafolio">
           <MyContainer />
-        </Route>
+        </Route> */}
 
         <Route path="/Habilidades">
           <Habilidades />
